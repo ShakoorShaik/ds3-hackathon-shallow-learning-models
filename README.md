@@ -17,6 +17,9 @@ Welcome to the Shallow Learning DS3 Datathon 2025 GitHub repository for the Car 
 - `fungi_test.csv` - This file contains the id and the path of the images located in the test folder.
 - `fungi_sample_submission.csv` - This file outlines the required format for submission.
 
+
+## Instructions for Use
+
 For the model to work
 Use a python venv
 
