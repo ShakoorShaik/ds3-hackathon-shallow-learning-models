@@ -29,5 +29,7 @@ pip install scikit-learn
 
 ## Downlaod Dataset
 kaggle competitions download -c ds-3-datathon-2025-car-evaluation
+
 kaggle competitions download -c ds-3-datathon-2025-classifying-accidents
+
 kaggle competitions download -c ds-3-datathon-2025-fungi-classification
